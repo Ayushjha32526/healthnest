@@ -1,8 +1,8 @@
 import React from "react";
-import Hero from "../Components/Hero";
-import Biography from "../Components/Biography";
-import MessageForm from "../Components/MessageForm";
-import Departments from "../Components/Departments";
+import Hero from "../components/Hero";
+import Biography from "../components/Biography";
+import MessageForm from "../components/MessageForm";
+import Departments from "../components/Departments";
 
 const Home = () => {
   return (
