@@ -1,6 +1,6 @@
 import React from "react";
-import Hero from "../Components/Hero";
-import AppointmentForm from "../Components/AppointmentForm";
+import Hero from "../components/Hero";
+import AppointmentForm from "../components/AppointmentForm";
 
 const Appointment = () => {
   return (
